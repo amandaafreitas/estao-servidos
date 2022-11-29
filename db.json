@@ -4,7 +4,8 @@
       "id": 1,
       "titulo": "Adão Negro",
       "ano": 2022,
-      "direcao": "Jaume Collet-Serra"
+      "direcao": "Jaume Collet-Serra",
+      "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg"
     },
     {
       "titulo": "Halloween Ens - O Acerto de Contas Final",
@@ -19,46 +20,163 @@
       "id": 3
     },
     {
-      "titulo": "Lilo,Lilo,Crocodilo",
+      "titulo": "Pantera Negra:Wakanda para sempre",
       "ano": 2022,
-      "direcao": "Josh Gordon, Will Speck",
+      "direcao": "Ryan Coogler",
       "id": 4
+    },
+
+    {
+      "titulo": "A Luz do Demônio",
+      "ano": 2022,
+      "direcao": "Daniel Stamm",
+      "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg",
+      "id": 5
+    },
+
+    {
+      "titulo": "A Mulher Rei",
+      "ano": 2022,
+      "direcao": "Gina Prince-Bythewood",
+      "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg",
+      "id": 6
     }
   ],
-  "generos": [
+  "em-breve": [
     {
       "id": 1,
-      "genero": "Aventura"
+      "titulo": "A maldicao do quarto 203",
+      "disponibilidade": "24/12/2022",
+      "elenco": "Francesca Xuereb, Viktoria Vinyarska, Eric Wiegand",
+      "sinopse": "Duas melhores amigas e colegas de quarto são aterrorizados com os espíritos malignos que habitam em seu apartamento.",
+      "distribuidora": "PlayArte"
     },
     {
-      "genero": "Terror",
-      "id": 2
+      "id": 2,
+      "titulo": "Ligacao explosiva",
+      "disponibilidade": "02/12/2022",
+      "elenco": "Ji Chang-Wook, Woo-jin Jo, Haerry Kim",
+      "sinopse": "O gerente de banco Sung-gyu está a caminho do trabalho com seus dois filhos quando recebe uma misteriosa ligação que lhe diz que há uma bomba em seu carro - e que ele só soreviverá se mandar uma grande quantia de dinheiro. As coisas começam a piorar quando a polícia começa a considerá-lo o principal suspeito do ato de terrorismo.",
+      "distribuidora": "Galeria Distribuidora"
     },
     {
-      "genero": "Romance",
-      "id": 3
+      "id": 3,
+      "titulo": "Noite Infeliz",
+      "disponibilidade": "18/12/2022",
+      "elenco": "David Harbour",
+      "sinopse": "Quando um grupo de mercenários ataca a propriedade de uma família rica, o Papai Noel deve intervir para salvar o dia de Natal.",
+      "distribuidora": "Universal Pictures Brasil"
     },
     {
-      "genero": "Comédia",
-      "id": 4
+      "id": 4,
+      "titulo": "Tubarao : Mar de Sangue",
+      "disponibilidade": "01/12/2022",
+      "elenco": "Sem informacao",
+      "sinopse": "Um grupo de amigos aproveitam um fim de semana e roubam alguns jet skis para ir para o mar, mas acabam em um terrível acidente. Eles lutam para encontrar o caminho de casa carregando um amigo gravemente ferido enquanto terríveis predadores os perseguem no mar.",
+      "distribuidora": "Paris Filmes"
+    },
+    {
+      "id": 5,
+      "titulo": "Bem-Vindos a Bordo",
+      "disponibilidade": "08/12/2022",
+      "elenco": "Adèle Exarchopoulos, Alexandre Perrier, Mara Taquin",
+      "sinopse": "Uma jovem aeromoça vive entre viagens, festas e redes sociais, até que perde seu emprego e precisa voltar para casa e encarar os problemas que tinha deixado para trás.",
+      "distribuidora": "Sem distribuidor"
+    },
+    {
+      "id": 6,
+      "titulo": "Ela Disse",
+      "disponibilidade": "08/12/2022",
+      "elenco": "Carey Mulligan, Zoe Kazan, Tom Pelphrey",
+      "sinopse": "Inspirado em eventos reais, a história de duas jornalistas do New York Times que mudou Hollywood. Megan Twohey e Jodi Kantor escrevem uma das histórias mais importantes de uma geração, que ajudou a lançar o movimento #MeToo e quebrou décadas de silêncio em torno do assunto de agressão sexual em Hollywood.",
+      "distribuidora": "Sem distribuidor"
     }
   ],
-  "produtoras": [
+  "cinemas": [
     {
       "id": 1,
-      "nome": "Warner Bros.Pictures"
+      "nome": "UCI Kinoplex Norte Shopping",
+      "endereço": "Avenida Dom Helder Camara, 5080",
+      "bairro": "Cachambi",
+      "telefone": "(21) 2461-0050",
+      "retirada de ingresso": "Bilheteria / ATM, Impressão ou Aplicativo"
     },
     {
-      "nome": "Sony Pictures",
-      "id": 2
+      "id": 2,
+      "nome": "Cine Odeon Net Claro - Centro Cultural LSR",
+      "endereço": "Praça Floriano, 7",
+      "bairro": "Centro",
+      "telefone": "(21) 2240-1093",
+      "retirada de ingresso": "Bilheteria / ATM, Impressão ou Aplicativo"
     },
     {
-      "nome": "Universal Studios",
-      "id": 3
+      "id": 3,
+      "nome": "Kinoplex RioSul",
+      "endereço": "Avenida Lauro Sodré, 445",
+      "bairro": "Botafogo",
+      "telefone": "Sem telefone disponivel",
+      "retirada de ingresso": "Bilheteria / ATM, Impressão ou Aplicativo"
     },
     {
-      "nome": "Paramount Pictures",
-      "id": 4
+      "id": 4,
+      "nome": "Kinoplex São Luiz",
+      "endereço": "Rua do Catete, 311",
+      "bairro": "Catete",
+      "telefone": "Sem telefone disponivel",
+      "retirada de ingresso": "Bilheteria / ATM, Impressão ou Aplicativo"
+    },
+    {
+      "id": 5,
+      "nome": "Kinoplex Nova América",
+      "endereço": "Avenida Pastor Martin Luther King Junior, 126",
+      "bairro": "Del Castilho",
+      "telefone": "Sem telefone disponivel",
+      "retirada de ingresso": "Bilheteria / ATM, Impressão ou Aplicativo"
+    }
+  ],
+
+  "bomboniere": [
+    {
+      "id": 1,
+      "nome": "Pipoca pequena",
+      "descricao": "Pipoca pequena com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+      "preco": 20,
+      "gramatura": "100gr"
+    },
+    {
+      "id": 2,
+      "nome": "Pipoca media",
+      "descricao": "Pipoca media com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+      "preco": 35,
+      "gramatura": "300gr"
+    },
+    {
+      "id": 3,
+      "nome": "Pipoca grande",
+      "descricao": "Pipoca grande com opções, salgadas, com manteiga ou com bacon, e doces com confetes ou leite condensado ",
+      "preco": 50,
+      "gramatura": "500gr"
+    },
+    {
+      "id": 4,
+      "nome": "Refrigerante pequeno",
+      "descricao": "Refrigerantes de variados sabores e tamanhos.",
+      "preco": 8.5,
+      "mililitros": "200ml"
+    },
+    {
+      "id": 5,
+      "nome": "Refrigerante medio",
+      "descricao": "Refrigerantes de variados sabores e tamanhos.",
+      "preco": 10.5,
+      "mililitros": "500ml"
+    },
+    {
+      "id": 6,
+      "nome": "Refrigerante grande",
+      "descricao": "Refrigerantes de variados sabores e tamanhos.",
+      "preco": 12.5,
+      "mililitros": "1L"
     }
   ]
 }
