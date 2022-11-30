@@ -8,21 +8,24 @@
       "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg"
     },
     {
-      "titulo": "Halloween Ens - O Acerto de Contas Final",
+      "titulo": "Halloween Ends - O Acerto de Contas Final",
       "ano": 2022,
       "direcao": "David Gordon Green",
+      "imagem": "https://www.atoupeira.com.br/wp-content/uploads/2022/10/halloween-ends-poster-final-critica.jpg",
       "id": 2
     },
     {
       "titulo": "Lilo,Lilo,Crocodilo",
       "ano": 2021,
       "direcao": "Josh Gordon, Will Speck",
+      "imagem": "https://partageshoppingmossoro.com.br/media/lilo-lilo.jpg",
       "id": 3
     },
     {
       "titulo": "Pantera Negra:Wakanda para sempre",
       "ano": 2022,
       "direcao": "Ryan Coogler",
+      "imagem": "https://partageshoppingmossoro.com.br/media/lilo-lilo.jpg",
       "id": 4
     },
 
@@ -30,7 +33,7 @@
       "titulo": "A Luz do Demônio",
       "ano": 2022,
       "direcao": "Daniel Stamm",
-      "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg",
+      "imagem": "https://cloud.estacaonerd.com/wp-content/uploads/2022/07/11194404/A-LUZ.jpg",
       "id": 5
     },
 
@@ -38,7 +41,7 @@
       "titulo": "A Mulher Rei",
       "ano": 2022,
       "direcao": "Gina Prince-Bythewood",
-      "imagem": "https://www.barrashopping.com.br/sites/testes/files/cinema/ad__o-negro_1.jpg",
+      "imagem": "https://www.atoupeira.com.br/wp-content/uploads/2022/09/a-mulher-rei-poster-nacional-0609-768x960.jpg",
       "id": 6
     }
   ],
@@ -49,6 +52,7 @@
       "disponibilidade": "24/12/2022",
       "elenco": "Francesca Xuereb, Viktoria Vinyarska, Eric Wiegand",
       "sinopse": "Duas melhores amigas e colegas de quarto são aterrorizados com os espíritos malignos que habitam em seu apartamento.",
+      "imagem": "https://www.atoupeira.com.br/wp-content/uploads/2022/09/a-mulher-rei-poster-nacional-0609-768x960.jpg",
       "distribuidora": "PlayArte"
     },
     {
@@ -57,6 +61,7 @@
       "disponibilidade": "02/12/2022",
       "elenco": "Ji Chang-Wook, Woo-jin Jo, Haerry Kim",
       "sinopse": "O gerente de banco Sung-gyu está a caminho do trabalho com seus dois filhos quando recebe uma misteriosa ligação que lhe diz que há uma bomba em seu carro - e que ele só soreviverá se mandar uma grande quantia de dinheiro. As coisas começam a piorar quando a polícia começa a considerá-lo o principal suspeito do ato de terrorismo.",
+      "imagem": "https://www.themoviedb.org/t/p/original/zIHuiLEYMNhyVuavL8XQqZYMXU0.jpg",
       "distribuidora": "Galeria Distribuidora"
     },
     {
@@ -65,6 +70,7 @@
       "disponibilidade": "18/12/2022",
       "elenco": "David Harbour",
       "sinopse": "Quando um grupo de mercenários ataca a propriedade de uma família rica, o Papai Noel deve intervir para salvar o dia de Natal.",
+      "imagem": "https://www.themoviedb.org/t/p/original/bDefoWxmdTJ3QMQ51ew0yONVrb8.jpg",
       "distribuidora": "Universal Pictures Brasil"
     },
     {
@@ -73,6 +79,7 @@
       "disponibilidade": "01/12/2022",
       "elenco": "Sem informacao",
       "sinopse": "Um grupo de amigos aproveitam um fim de semana e roubam alguns jet skis para ir para o mar, mas acabam em um terrível acidente. Eles lutam para encontrar o caminho de casa carregando um amigo gravemente ferido enquanto terríveis predadores os perseguem no mar.",
+      "imagem": "https://pbs.twimg.com/media/FgfnXD9XgAUGQOc?format=jpg&name=4096x4096",
       "distribuidora": "Paris Filmes"
     },
     {
@@ -81,6 +88,7 @@
       "disponibilidade": "08/12/2022",
       "elenco": "Adèle Exarchopoulos, Alexandre Perrier, Mara Taquin",
       "sinopse": "Uma jovem aeromoça vive entre viagens, festas e redes sociais, até que perde seu emprego e precisa voltar para casa e encarar os problemas que tinha deixado para trás.",
+      "imagem": "https://www.themoviedb.org/t/p/original/uFlgbd4eXnzn2q7mwrLBb5QIsZm.jpg",
       "distribuidora": "Sem distribuidor"
     },
     {
@@ -89,6 +97,7 @@
       "disponibilidade": "08/12/2022",
       "elenco": "Carey Mulligan, Zoe Kazan, Tom Pelphrey",
       "sinopse": "Inspirado em eventos reais, a história de duas jornalistas do New York Times que mudou Hollywood. Megan Twohey e Jodi Kantor escrevem uma das histórias mais importantes de uma geração, que ajudou a lançar o movimento #MeToo e quebrou décadas de silêncio em torno do assunto de agressão sexual em Hollywood.",
+      "imagem": "https://www.themoviedb.org/t/p/original/gAKCXux5EMBLkNcnxnXtKxOFenN.jpg",
       "distribuidora": "Sem distribuidor"
     }
   ],
